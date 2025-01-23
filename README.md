@@ -3,6 +3,7 @@
 ![brave_screenshot_splendid-kataifi-89f25b netlify app](https://github.com/user-attachments/assets/eb6d1899-caa5-4f0d-b426-9897830ce9e6)
 
 Uma rede social divertida para cães e seus donos, onde você pode compartilhar imagens de seus pets e interagir com outros apaixonados por cachorros!
+Link do site: https://splendid-kataifi-89f25b.netlify.app/
 
 ## 🐾 Descrição
 Dogs é uma aplicação desenvolvida para aprendizado, permitindo que os usuários:
